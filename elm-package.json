@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
+    "version": "2.0.0",
     "summary": "Elm library version of Elchemy compiler, to use in Elm projects",
     "repository": "https://github.com/wende/elchemy-library.git",
     "license": "BSD3",
@@ -8,7 +8,7 @@
         "./src"
     ],
     "exposed-modules": [
-        "Compiler"
+        "Elchemy.Compiler"
     ],
     "dependencies": {
         "Bogdanp/elm-ast": "8.0.0 <= v < 10.0.0",
