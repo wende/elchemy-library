@@ -1,3 +1,5 @@
+export PATH := bin:$(PATH)
+
 dev:
 	pkill -f http-server &
 	echo "Make sure to install http-server with npm i -g http-server"

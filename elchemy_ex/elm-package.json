@@ -15,7 +15,7 @@
         "elm-lang/html": "2.0.0 <= v < 3.0.0",
         "evancz/elm-markdown": "3.0.2 <= v < 4.0.0",
         "Bogdanp/elm-ast": "8.0.9 <= v < 9.0.0",
-        "elm-community/list-extra": "6.0.0 <= v < 7.0.0"
+        "elm-community/list-extra": "7.0.0 <= v < 8.0.0"
     },
     "dependency-sources": {
         "wende/elchemy-core" : "../elchemy-core/"
